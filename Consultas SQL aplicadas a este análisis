@@ -85,7 +85,7 @@ SELECT Brand , SUM(UnitsSOLD) AS num_compras
 FROM mobile_sales
 GROUP BY Brand;
 
-#DÍAS EN QUE SE VENDIARON MÁS MOVILES
+#DÍAS EN QUE SE VENDIERON MÁS MOVILES
 SELECT Date, total_ventas
 FROM (
     SELECT Date, SUM(UnitsSOLD) AS total_ventas
