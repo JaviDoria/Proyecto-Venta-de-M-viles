@@ -31,20 +31,6 @@ Finalmente creo un script para si es necesario poder crear nuevamente de manera 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 2º. POWER BI (Dashboard)
 
 Ahora que ya conocemos un poco mas los datos con los que estamos trabajando ya podemos adentrarnos en la parte de creación de informes para poder efectuar un análisis y así efectuar una interpretación del negocio para poder tomar medidas de mejora y conocer el estado del mismo.  
@@ -53,18 +39,18 @@ Ahora que ya conocemos un poco mas los datos con los que estamos trabajando ya p
 
 
 Es así como he confeccionado este Dashboard donde lo primero que podemos ver el Total Facturado, así como el numero total de transacciones y las unidades vendidas de los móviles.
-Tenemos además dos segmentadores donde podemos acceder de manera rápida a efectuar un filtrado por el género del usuario y el rengo de fecha que queramos analizar.
+Tenemos además dos segmentadores donde podemos acceder de manera rápida a efectuar un filtrado por el género del usuario y el rango de fecha que queramos analizar.
 Además, contamos con un botón que nos hará más fácil el borrar las opciones seleccionadas para regresar al inicio.
 Contamos con una visualización que nos detalla el método de pago utilizado por los clientes que se irá actualizando según los criterios seleccionados en los segmentadores.
 También tenemos un grafico de pastel que nos detalla la distribución de las transacciones según el género del cliente.
-Un grafico que nos muestra la media de las compras según el genero del usuario y finalmente otro que nos aporta información sobre la cantidad de móviles vendidas según el modelo.
-Todo esto ayuda de manera rápida a poder tener una comprensión de las preferencias de los clientes que en este caso nos estamos centrando en el genero de los mismos. Y de esta manera se puedan tomar decisiones según el planteamiento de la compañía ya sea para incrementar las ventas en algún grupo en concreto, conocer las preferencias según el género, el gasto que efectúa cada grupo entre otros.
+Un gráfico que nos muestra la media de las compras según el genero del usuario y finalmente otro que nos aporta información sobre la cantidad de móviles vendidas según el modelo.
+Todo esto ayuda de manera rápida a poder tener una comprensión de las preferencias de los clientes que en este caso nos estamos centrando en el género de los mismos. Y de esta manera se puedan tomar decisiones según el planteamiento de la compañía ya sea para incrementar las ventas en algún grupo en concreto, conocer las preferencias según el género, el gasto que efectúa cada grupo entre otros.
 
 ## 3º. PYTHON (DataFrames/Gráficos)
 
 [>Scripts de Python](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/75a5eb5536fe969dac2084278165aa2234a09b17/4.Ventas%20M%C3%B3viles.ipynb)
 
-Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizará para hacer algunos gráficos que posteriormente se podrían utilizar para crear un informe.  
+Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizaré para hacer algunos gráficos que posteriormente se podrán utilizar para crear un informe.  
 
 ![image](https://github.com/user-attachments/assets/3406692f-a76d-4848-886b-450ee8d6bd0f)  
 
