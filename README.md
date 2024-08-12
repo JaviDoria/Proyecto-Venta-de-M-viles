@@ -35,9 +35,8 @@ Finalmente creo un script para si es necesario poder crear nuevamente de manera 
 
 Ahora que ya conocemos un poco mas los datos con los que estamos trabajando ya podemos adentrarnos en la parte de creación de informes para poder efectuar un análisis y así efectuar una interpretación del negocio para poder tomar medidas de mejora y conocer el estado del mismo.  
 
-![image](https://github.com/user-attachments/assets/3168b64e-0062-4b24-902a-f0b0049a874a)  
-[LINK DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNDIxY2JhYjUtN2QwMS00YzEwLTg0MWMtNmI5NzVhZWU3YjBlIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9
-)
+![image](https://github.com/user-attachments/assets/ee393a01-f636-4aa8-bc10-9e771600d7bd)  
+[LINK DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNDIxY2JhYjUtN2QwMS00YzEwLTg0MWMtNmI5NzVhZWU3YjBlIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9)
 
 
 
