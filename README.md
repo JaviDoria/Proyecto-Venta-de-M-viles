@@ -1,7 +1,7 @@
 # PROYECTO VENTA DE MÓVILES
 
 
-1º. MYSQL(Workbench)
+## 1º. MYSQL(Workbench)
 
 Como primer paso he buscado un Dataset en Kaggle para poder practicar y he encontrado uno que contiene registro de ventas de móviles.
 Lo primero que hice fue descargar el archivo CSV y abrirlo con Power Query para poder revisar si fuera necesario hacer algún cambio en el.
@@ -45,7 +45,7 @@ Finalmente creo un script para si es necesario poder crear nuevamente de manera 
 
 
 
-2º. POWER BI (Dashboard)
+## 2º. POWER BI (Dashboard)
 
 Ahora que ya conocemos un poco mas los datos con los que estamos trabajando ya podemos adentrarnos en la parte de creación de informes para poder efectuar un análisis y así efectuar una interpretación del negocio para poder tomar medidas de mejora y conocer el estado del mismo.
 
@@ -57,7 +57,7 @@ También tenemos un grafico de pastel que nos detalla la distribución de las tr
 Un grafico que nos muestra la media de las compras según el genero del usuario y finalmente otro que nos aporta información sobre la cantidad de móviles vendidas según el modelo.
 Todo esto ayuda de manera rápida a poder tener una comprensión de las preferencias de los clientes que en este caso nos estamos centrando en el genero de los mismos. Y de esta manera se puedan tomar decisiones según el planteamiento de la compañía ya sea para incrementar las ventas en algún grupo en concreto, conocer las preferencias según el género, el gasto que efectúa cada grupo entre otros.
 
-3º. PYTHON (DataFrames/Gráficos)
+## 3º. PYTHON (DataFrames/Gráficos)
 
 >  Scripts de Python
 
