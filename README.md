@@ -22,7 +22,7 @@ Finalmente creo un script para si es necesario poder crear nuevamente de manera 
 
 [>Consultas SQL](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/2.Consultas%20SQL%20aplicadas%20a%20este%20an%C3%A1lisis.sql)
 
-![>Creación de Tabla y cargado de datos](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/1.Crear%20Tabla%20y%20cargar%20datos.sql)
+[>Creación de Tabla y cargado de datos](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/1.Crear%20Tabla%20y%20cargar%20datos.sql)
 
 
 
@@ -62,7 +62,7 @@ Todo esto ayuda de manera rápida a poder tener una comprensión de las preferen
 
 ## 3º. PYTHON (DataFrames/Gráficos)
 
-![>Scripts de Python](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/75a5eb5536fe969dac2084278165aa2234a09b17/4.Ventas%20M%C3%B3viles.ipynb)
+[>Scripts de Python](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/75a5eb5536fe969dac2084278165aa2234a09b17/4.Ventas%20M%C3%B3viles.ipynb)
 
 Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizará para hacer algunos gráficos que posteriormente se podrían utilizar para crear un informe.  
 
