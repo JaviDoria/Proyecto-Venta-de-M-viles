@@ -19,10 +19,9 @@ Entre las consultas efectuadas he buscado la cantidad de ventas totales, cantida
 Finalmente creo un script para si es necesario poder crear nuevamente de manera directa en Workbench la tabla y cargar los datos a partir de una consulta.
 
 •	TODA ESTA PARTE SE ENCUENTA EN LOS ARCHIVOS DEL GITHUB:
+![>Consultas SQL](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/2.Consultas%20SQL%20aplicadas%20a%20este%20an%C3%A1lisis.sql)
 
-![Consultas SQL](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/2.Consultas%20SQL%20aplicadas%20a%20este%20an%C3%A1lisis.sql)
-
-![Creación de Tabla y cargado de datos](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/1.Crear%20Tabla%20y%20cargar%20datos.sql)
+![>Creación de Tabla y cargado de datos](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/89d5690bc9a0c0b59e97701837bb34e468344a1b/1.Crear%20Tabla%20y%20cargar%20datos.sql)
 
 
 
