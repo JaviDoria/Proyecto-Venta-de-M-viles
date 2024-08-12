@@ -51,13 +51,17 @@ Todo esto ayuda de manera rápida a poder tener una comprensión de las preferen
 [>Scripts de Python](https://github.com/JaviDoria/Proyecto-Venta-de-Moviles/blob/75a5eb5536fe969dac2084278165aa2234a09b17/4.Ventas%20M%C3%B3viles.ipynb)
 
 Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizaré para hacer algunos gráficos que posteriormente se podrán utilizar para crear un informe.  
-**Script de la conexión con la base de datos:**
+***Script de la conexión con la base de datos:***
 ![image](https://github.com/user-attachments/assets/3406692f-a76d-4848-886b-450ee8d6bd0f)  
 
-**Histograma**
+***Histograma***
+
 ![image](https://github.com/user-attachments/assets/634f75ef-3ed8-4b6f-aae1-29bd062fb997)  
 
-**Gráfico de Correlación**
+
+***Gráfico de Correlación***
+
+
 ![image](https://github.com/user-attachments/assets/a46d9b0d-e093-4064-ab9d-51017b3e1e49)
 
 
