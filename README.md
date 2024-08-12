@@ -48,6 +48,8 @@ Finalmente creo un script para si es necesario poder crear nuevamente de manera 
 ## 2º. POWER BI (Dashboard)
 
 Ahora que ya conocemos un poco mas los datos con los que estamos trabajando ya podemos adentrarnos en la parte de creación de informes para poder efectuar un análisis y así efectuar una interpretación del negocio para poder tomar medidas de mejora y conocer el estado del mismo.
+![image](https://github.com/user-attachments/assets/3168b64e-0062-4b24-902a-f0b0049a874a)
+
 
 Es así como he confeccionado este Dashboard donde lo primero que podemos ver el Total Facturado, así como el numero total de transacciones y las unidades vendidas de los móviles.
 Tenemos además dos segmentadores donde podemos acceder de manera rápida a efectuar un filtrado por el género del usuario y el rengo de fecha que queramos analizar.
