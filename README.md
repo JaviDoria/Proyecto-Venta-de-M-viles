@@ -62,7 +62,7 @@ Finalmente decidí aprovechar la potencia de Python para efectuar otros gráfico
 
 ***Histograma***
 
-![image](https://github.com/user-attachments/assets/634f75ef-3ed8-4b6f-aae1-29bd062fb997)  
+![image](https://github.com/user-attachments/assets/0d074db2-290f-46a4-a812-06b95eabc0d2)
 
 
 ***Gráfico de Correlación***
