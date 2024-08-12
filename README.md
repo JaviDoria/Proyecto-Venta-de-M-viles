@@ -64,4 +64,13 @@ Todo esto ayuda de manera rápida a poder tener una comprensión de las preferen
 
 >  Scripts de Python
 
-Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizará para hacer algunos gráficos que posteriormente se podrían utilizar para crear un informe.
+Finalmente decidí aprovechar la potencia de Python para efectuar otros gráficos con los datos obtenidos y en este enlace muestro como efectúo la conexión con la base de datos para posteriormente crear un Dataframe el cual utilizará para hacer algunos gráficos que posteriormente se podrían utilizar para crear un informe.  
+
+![image](https://github.com/user-attachments/assets/3406692f-a76d-4848-886b-450ee8d6bd0f)  
+
+![image](https://github.com/user-attachments/assets/634f75ef-3ed8-4b6f-aae1-29bd062fb997)  
+
+![image](https://github.com/user-attachments/assets/a46d9b0d-e093-4064-ab9d-51017b3e1e49)
+
+
+
